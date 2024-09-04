@@ -24,7 +24,7 @@ export const Header = () => {
           <div className="navbar-brand">
             <NavLink to="/">
               <img
-                src="../src/images/movie-logo.png"
+                src="../src/assets/images/movie-logo.png"
                 alt="e-commerce logo"
                 className="logo"
                 // width="80%"

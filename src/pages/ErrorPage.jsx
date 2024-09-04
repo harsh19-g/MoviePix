@@ -13,7 +13,7 @@ export const ErrorPage = () => {
       <section className="error-section" style={{display:"flex", flexDirection: "column",alignItems:"center", justifyContent:"center"}}>
         <div className="error-text" >
           <figure>
-            <img src="../src/images/404.jpg" alt="error 404 page" style={{width:400}} />
+            <img src="../src/assets/images/404.png" alt="error 404 page" style={{width:400}} />
           </figure>
           <div className="text-center">
             <p className="p-a">

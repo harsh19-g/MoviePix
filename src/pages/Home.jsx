@@ -25,7 +25,7 @@ export const Home = () => {
           <div className="section-hero-image">
             <img
               // src="./assets/images/movies.png"
-              src="../src/images/movies.png"
+              src="../src/assets/images/movies.png"
               alt="movies poster"
               width="100px"
               height="100px"
